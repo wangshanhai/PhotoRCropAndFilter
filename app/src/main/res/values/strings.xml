@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">滤镜</string>
+
+
+
+
+    <string name="title_activity_activity_main">GPUImage Sample</string>
+    <string name="text_filter_normal">原图</string>
+    <string name="text_filter_meifu">自然美肌</string>
+    <string name="text_filter_meishi">美食</string>
+    <string name="text_filter_amaro">流年</string>
+    <string name="text_filter_rise">森系</string>
+    <string name="text_filter_hudson">胶片</string>
+    <string name="text_filter_xproii">新潮</string>
+    <string name="text_filter_sierra">清新</string>
+    <string name="text_filter_lomofi">个性</string>
+    <string name="text_filter_early_bird">怡尚</string>
+    <string name="text_filter_sutro">摩登</string>
+    <string name="text_filter_toaster">绚丽</string>
+    <string name="text_filter_brannan">淡雅</string>
+    <string name="text_filter_inkwell">黑白</string>
+    <string name="text_filter_walden">日系</string>
+    <string name="text_filter_hefe">优格</string>
+    <string name="text_filter_valencia">优雅</string>
+    <string name="text_filter_nashville">复古</string>
+    <string name="text_filter_in1977">创新</string>
+    <string name="text_filter_lord_kelvin">回忆</string>
+
+
+
+
+    <string name="label_sample">sample</string>
+    <string name="label_aspect_ratio">Aspect ratio</string>
+    <string name="label_dynamic">Dynamic</string>
+    <string name="label_image_source">Image source</string>
+    <string name="label_square">Square</string>
+    <string name="label_max_cropped_image_size">Max cropped image size</string>
+    <string name="label_compression_settings">Compression settings</string>
+    <string name="label_ui">UI</string>
+    <string name="label_width">Width</string>
+    <string name="label_height">Height</string>
+    <string name="label_resize_image_to_max_size">Resize image to max size</string>
+    <string name="label_hide_bottom_ui_controls">Hide bottom UI controls</string>
+    <string name="label_freestyle_crop">Freestyle crop</string>
+    <string name="label_select_picture">Select Picture</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_ok">OK</string>
+
+    <string name="notification_image_saved">Image saved</string>
+    <string name="notification_image_saved_click_to_preview">Image saved. Click to preview.</string>
+
+    <string name="menu_download">Download</string>
+
+    <string name="button_pick_amp_crop"><![CDATA[Pick & Crop]]></string>
+    <string name="button_crop_random_image">Crop random image</string>
+
+    <string name="description_cropped_image">Cropped image</string>
+
+    <string name="format_crop_result_d_d">Crop Result (%1$dx%2$d)</string>
+    <string name="format_quality_d">Quality: %d</string>
+    <string name="format_d_d_px">%1$dx%2$d px</string>
+
+    <string name="permission_title_rationale">Permission needed</string>
+    <string name="permission_read_storage_rationale">Storage read permission is needed to pick files.</string>
+    <string name="permission_write_storage_rationale">Storage write permission is needed to save the image.</string>
+
+    <string name="toast_cannot_retrieve_selected_image">Cannot retrieve selected image</string>
+    <string name="toast_cannot_retrieve_cropped_image">Cannot retrieve cropped image</string>
+    <string name="toast_unexpected_error">Unexpected error</string>
+
+    <string name="file_provider_authorities">com.yalantis.ucrop.provider</string>
+
+</resources>
