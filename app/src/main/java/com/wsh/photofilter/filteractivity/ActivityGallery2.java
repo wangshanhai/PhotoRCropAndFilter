@@ -105,6 +105,7 @@ public class ActivityGallery2 extends Activity implements
         ((SeekBar) findViewById(R.id.seekBar)).setOnSeekBarChangeListener(this);
         findViewById(R.id.button_choose_filter).setOnClickListener(this);
         findViewById(R.id.button_save).setOnClickListener(this);
+        findViewById(R.id.tv_save).setOnClickListener(this);
 
         mGPUImageView = (GPUImageView) findViewById(R.id.gpuimage);
         imageLL = (LinearLayout) findViewById(R.id.images_layout);
@@ -293,6 +294,9 @@ public class ActivityGallery2 extends Activity implements
                         });
                 break;
             case R.id.button_save:
+                saveImage();
+                break;
+            case R.id.tv_save:
                 saveImage();
                 break;
 
