@@ -5,7 +5,6 @@
 图片滤镜:android-gpuimage
 
 
-
 ![enter image description here](https://github.com/wangshanhai/PhotoRCropAndFilter/blob/master/img/rcrop.png)
 
 \n
